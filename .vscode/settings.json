@@ -4,5 +4,25 @@
     "node_modules": "explorerExcludedFiles",
     "package-lock.json": "explorerExcludedFiles",
     "yarn.lock": "explorerExcludedFiles"
-  }
+  },
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#65dd9a",
+    "activityBar.activeBorder": "#9862dc",
+    "activityBar.background": "#65dd9a",
+    "activityBar.foreground": "#15202b",
+    "activityBar.inactiveForeground": "#15202b99",
+    "activityBarBadge.background": "#9862dc",
+    "activityBarBadge.foreground": "#15202b",
+    "sash.hoverBorder": "#65dd9a",
+    "statusBar.background": "#3bd47e",
+    "statusBar.foreground": "#15202b",
+    "statusBarItem.hoverBackground": "#28b465",
+    "statusBarItem.remoteBackground": "#3bd47e",
+    "statusBarItem.remoteForeground": "#15202b",
+    "titleBar.activeBackground": "#3bd47e",
+    "titleBar.activeForeground": "#15202b",
+    "titleBar.inactiveBackground": "#3bd47e99",
+    "titleBar.inactiveForeground": "#15202b99"
+  },
+  "peacock.color": "#3bd47e"
 }

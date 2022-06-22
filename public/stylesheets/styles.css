@@ -1,3 +1,4 @@
+
 /*
 white: #f7f9f9;
 light-blue: #2081c3;
@@ -11,5 +12,30 @@ nav{
     width: 100vw;
     height: 50px;
     background-color: #2081c3;
+    color: #f7f9f9;
+}
+
+#imgcont{
+    width: 100vw;
+    text-align: center;
+}
+
+#home img {
+   
+    width: 100px;
+    
+}
+
+#home #link a{
+border: solid 1px;
+border-radius: 20px;
+background-color: #2081c3;
+color: #f7f9f9;
+}
+
+footer {
+    width: 100vw;
+    height: 30px;
+    background-color: #0a2c42;
     color: #f7f9f9;
 }
