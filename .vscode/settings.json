@@ -1,10 +1,4 @@
 {
-  "files.exclude": {
-    ".DS_Store": "explorerExcludedFiles",
-    "node_modules": "explorerExcludedFiles",
-    "package-lock.json": "explorerExcludedFiles",
-    "yarn.lock": "explorerExcludedFiles"
-  },
   "workbench.colorCustomizations": {
     "activityBar.activeBackground": "#65dd9a",
     "activityBar.activeBorder": "#9862dc",
@@ -24,5 +18,12 @@
     "titleBar.inactiveBackground": "#3bd47e99",
     "titleBar.inactiveForeground": "#15202b99"
   },
-  "peacock.color": "#3bd47e"
+  "peacock.color": "#3bd47e",
+  "files.exclude": {
+    ".DS_Store": "explorerExcludedFiles",
+    "node_modules": "explorerExcludedFiles",
+    "package-lock.json": "explorerExcludedFiles",
+    "yarn.lock": "explorerExcludedFiles",
+    ".vscode": "explorerExcludedFiles"
+  }
 }
