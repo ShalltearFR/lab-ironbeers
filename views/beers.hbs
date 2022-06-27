@@ -1,10 +1,3 @@
-<div id="beer">
-    {{#each this}}
-        <div class="beerList">
-            <h2>{{name}}</h2>
-            <h3>{{tagline}}</h3>
-            <img src="{{image_url}}">
-            <h4>{{description}}</h4>
-        </div>
-    {{/each}}
-</div>
+{{#each allBeers}}
+    {{> beerCard}}
+{{/each}}
