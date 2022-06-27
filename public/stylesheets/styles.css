@@ -57,3 +57,43 @@ footer {
     background-color: #0a2c42;
     color: #f7f9f9;
 }
+
+#randomBeer img {
+    width: 100px;
+    height: 300px;
+    padding: 30px;
+}
+
+#randomBeer {
+    display: flex;
+}
+
+.beerEl img{
+    width: 50px;
+    height: 150px;
+}
+.beerEl div{
+    text-align: center;
+    justify-content: center
+}
+
+.beerEl{
+    width: calc(50% - 1rem);
+}
+
+#cards {
+    display:inline-flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+.beerEl h3{
+    font-size: 13px;
+    color:gray;
+    margin: 0px;
+}
+.beerEl h4{
+    font-size: 15px;
+}
+.beerEl h2{
+    margin: 0;
+}
